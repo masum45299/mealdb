@@ -1,0 +1,16 @@
+nav{
+    background-color: grey;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    color:turquoise;
+}
+.menu a{
+    text-decoration: none;
+    margin-left: 32px;
+    color: white;
+}
